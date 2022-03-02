@@ -1,0 +1,24 @@
+{
+  "name": "radiomicsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellMarcus/radiomicsjs.git"
+  },
+  "author": "Maxwell Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellMarcus/radiomicsjs/issues"
+  },
+  "homepage": "https://github.com/MaxwellMarcus/radiomicsjs#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "itk": "^14.1.1",
+    "itk-wasm": "^1.0.0-a.14"
+  }
+}
